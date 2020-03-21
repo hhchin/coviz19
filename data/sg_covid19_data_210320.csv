@@ -1,0 +1,386 @@
+CASE,AGE,GENDER,NATIONALITY,STATUS,INFECTION SOURCE,COUNTRY OF ORIGIN,CONFIRMED AT,RECOVERED AT,CLUSTER
+1,66,Male,Chinese,Recovered,Imported Case,China,2020-01-23,2020-02-19,Imported Case
+2,53,Female,Chinese,Recovered,Imported Case,China,2020-01-24,2020-02-07,Imported Case
+3,37,Male,Chinese,Recovered,Imported Case,China,2020-01-24,2020-02-21,Imported Case
+4,36,Male,Chinese,Recovered,Imported Case,China,2020-01-25,2020-02-12,Imported Case
+5,56,Female,Chinese,Recovered,Imported Case,China,2020-01-27,2020-02-18,Imported Case
+6,56,Male,Chinese,Recovered,Imported Case,China,2020-01-27,2020-02-20,Imported Case
+7,35,Male,Chinese,Recovered,Imported Case,China,2020-01-27,2020-02-04,Imported Case
+8,56,Female,Chinese,Recovered,Imported Case,China,2020-01-28,2020-02-18,The Life Church and Missions
+9,56,Male,Chinese,Recovered,Imported Case,China,2020-01-29,2020-02-23,The Life Church and Missions
+10,56,Male,Chinese,Recovered,Imported Case,China,2020-01-29,2020-02-09,Imported Case
+11,31,Female,Chinese,Recovered,Imported Case,China,2020-01-29,2020-02-10,Imported Case
+12,37,Female,Chinese,Recovered,Imported Case,China,2020-01-29,2020-02-12,Imported Case
+13,73,Female,Chinese,Recovered,Imported Case,China,2020-01-30,2020-02-09,Imported Case
+14,31,Male,Singaporean,Recovered,Imported Case,China,2020-01-30,2020-02-17,Imported Case
+15,47,Female,Singaporean,Recovered,Imported Case,China,2020-01-30,2020-02-16,Wuhan Evac 30 Jan 20
+16,38,Male,Chinese,Recovered,Imported Case,China,2020-01-30,2020-02-20,Imported Case
+17,47,Female,Singaporean,Recovered,Imported Case,China,2020-01-31,2020-02-11,Wuhan Evac 30 Jan 20
+18,31,Female,Chinese,Recovered,Imported Case,China,2020-02-01,2020-02-27,Imported Case
+19,28,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-03,2020-02-22,Yong Thai Hang
+20,48,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-04,2020-02-29,Yong Thai Hang
+21,44,Female,Indonesian,Recovered,Local transmission,Unclear origin,2020-02-04,2020-02-18,Yong Thai Hang
+22,41,Male,Singaporean,Recovered,Imported Case,China,2020-02-03,2020-02-09,Wuhan Evac 30 Jan 20
+23,17,Male,Singaporean,Recovered,Imported Case,China,2020-02-03,2020-02-21,Wuhan Evac 30 Jan 20
+24,32,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-03,2020-02-15,Yong Thai Hang
+25,40,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-04,2020-02-12,Yong Thai Hang
+26,42,Female,Chinese,Recovered,Imported Case,China,2020-02-04,2020-02-09,Imported Case
+27,45,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-05,2020-02-21,Yong Thai Hang
+28,1,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-05,2020-02-22,Yong Thai Hang
+29,41,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-05,2020-02-12,Local Transmission
+30,27,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-06,2020-02-14,Grand Hyatt Singapore
+31,53,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-06,2020-02-17,The Life Church and Missions
+32,42,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-06,2020-02-19,Local Transmission
+33,39,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-06,2020-02-19,The Life Church and Missions
+34,40,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-07,2020-02-12,Yong Thai Hang
+35,64,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-02-07,,Local Transmission
+36,38,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-07,2020-02-11,Grand Hyatt Singapore
+37,53,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-07,2020-03-02,Local Transmission
+38,52,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-08,2020-02-18,The Life Church and Missions
+39,51,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-08,2020-02-16,Grand Hyatt Singapore
+40,36,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-08,2020-02-12,Yong Thai Hang
+41,71,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-02-08,,Local Transmission
+42,39,Male,Bangladeshi,In Hospital,Local transmission,Unclear origin,2020-02-08,,Seletar Aerospace Heights
+43,54,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-08,2020-03-07,Local Transmission
+44,37,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-09,2020-02-19,Local Transmission
+45,2,Female,Singaporean,Recovered,Imported Case,China,2020-02-10,2020-02-14,Wuhan Evac 30 Jan 20
+46,35,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-10,2020-02-24,Local Transmission
+47,39,Male,Bangladeshi,Recovered,Local transmission,Unclear origin,2020-02-10,2020-03-07,Seletar Aerospace Heights
+48,34,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-11,2020-02-17,Grace Assembly of God
+49,46,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-11,2020-02-26,Grace Assembly of God
+50,62,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-12,2020-02-21,Local Transmission
+51,48,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-12,2020-02-21,Grace Assembly of God
+52,37,Male,Bangladeshi,Recovered,Local transmission,Unclear origin,2020-02-12,2020-02-28,Seletar Aerospace Heights
+53,54,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-12,2020-03-14,Grace Assembly of God
+54,55,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-13,2020-03-01,Grace Assembly of God
+55,30,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-13,2020-02-19,Local Transmission
+56,30,Male,Bangladeshi,Recovered,Local transmission,Unclear origin,2020-02-13,2020-02-26,Seletar Aerospace Heights
+57,26,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-13,2020-02-21,Grace Assembly of God
+58,55,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-13,2020-02-25,Grace Assembly of God
+59,61,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-13,2020-02-26,Local Transmission
+60,51,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-13,2020-03-01,Grace Assembly of God
+61,57,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-13,2020-03-04,Grace Assembly of God
+62,44,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-13,2020-02-25,Grace Assembly of God
+63,54,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-14,2020-02-21,Grace Assembly of God
+64,50,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-14,2020-02-23,Local Transmission
+65,61,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-14,2020-02-17,Local Transmission
+66,28,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-14,2020-02-20,Grace Assembly of God
+67,56,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-14,2020-03-02,Grace Assembly of God
+68,79,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-14,2020-02-29,Grace Assembly of God
+69,26,Male,Bangladeshi,Recovered,Local transmission,Unclear origin,2020-02-15,2020-03-02,Seletar Aerospace Heights
+70,27,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-15,2020-02-21,Grace Assembly of God
+71,25,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-15,2020-03-05,Grace Assembly of God
+72,40,Male,Chinese,Recovered,Local transmission,Unclear origin,2020-02-15,2020-02-27,Local Transmission
+73,43,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-15,2020-02-26,Grace Assembly of God
+74,29,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-15,2020-03-07,Grace Assembly of God
+75,71,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-16,2020-02-29,Local Transmission
+76,1,Male,Singaporean,Recovered,Imported Case,China,2020-02-16,2020-02-18,Wuhan Evac 09 Feb 20
+77,35,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-17,2020-02-25,Local Transmission
+78,57,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-17,2020-02-27,Grace Assembly of God
+79,35,Female,Malaysian,Recovered,Local transmission,Unclear origin,2020-02-17,2020-02-28,Local Transmission
+80,38,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-18,2020-02-27,Grace Assembly of God
+81,50,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-18,2020-02-25,Grace Assembly of God
+82,57,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-02-18,,Local Transmission
+83,54,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-19,2020-02-21,The Life Church and Missions
+84,35,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-19,2020-02-21,Grace Assembly of God
+85,36,Male,Chinese,Recovered,Local transmission,Unclear origin,2020-02-20,2020-03-07,Local Transmission
+86,24,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-20,2020-03-07,Local Transmission
+87,32,Male,Singaporean,Recovered,Imported Case,China,2020-02-21,2020-02-24,Wuhan Evac 09 Feb 20
+88,30,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-21,2020-03-02,Grace Assembly of God
+89,41,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-22,2020-02-28,Local Transmission
+90,75,Female,Singaporean,Deceased,Local transmission,Unclear origin,2020-02-23,,The Life Church and Missions
+91,58,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-22,2020-02-25,The Life Church and Missions
+92,47,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-26,2020-03-11,Local Transmission
+93,38,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-26,2020-03-07,Wizlearn Technologies
+94,64,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-02-26,,SAFRA Jurong
+95,44,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-27,2020-03-14,Wizlearn Technologies
+96,12,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-27,2020-03-07,SAFRA Jurong
+97,44,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-27,2020-03-19,Wizlearn Technologies
+98,24,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-28,2020-03-05,Wizlearn Technologies
+99,27,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-28,2020-03-16,Wizlearn Technologies
+100,20,Male,Malaysian,Recovered,Local transmission,Unclear origin,2020-02-28,2020-03-16,Wizlearn Technologies
+101,61,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-02-29,2020-03-18,Wizlearn Technologies
+102,41,Female,Filipino,Recovered,Local transmission,Unclear origin,2020-02-29,2020-03-14,Wizlearn Technologies
+103,37,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-01,2020-03-14,Wizlearn Technologies
+104,25,Female,Myanmarian,Recovered,Local transmission,Unclear origin,2020-03-01,2020-03-19,Wizlearn Technologies
+105,49,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-01,2020-03-19,Wizlearn Technologies
+106,54,Male,Japanese,Recovered,Local transmission,Unclear origin,2020-03-01,2020-03-11,Wizlearn Technologies
+107,68,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-01,2020-03-06,SAFRA Jurong
+108,34,Female,Filipino,Recovered,Local transmission,Unclear origin,2020-03-02,2020-03-20,Wizlearn Technologies
+109,70,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-02,,Local Transmission
+110,33,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-02,2020-03-07,Wizlearn Technologies
+111,43,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-03,2020-03-13,Local Transmission
+112,62,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-04,2020-03-09,SAFRA Jurong
+113,42,Male,French,In Hospital,Imported Case,Unclear origin,2020-03-04,,Imported Case
+114,62,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-04,,SAFRA Jurong
+115,62,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-05,,SAFRA Jurong
+116,50,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-05,,SAFRA Jurong
+117,52,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-05,,SAFRA Jurong
+118,33,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-05,2020-03-18,SAFRA Jurong
+119,55,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-05,,Local Transmission
+120,62,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-05,,SAFRA Jurong
+121,54,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-05,2020-03-19,SAFRA Jurong
+122,64,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-05,2020-03-17,SAFRA Jurong
+123,47,Male,Singaporean,Recovered,Imported Case,South africa,2020-03-05,2020-03-17,Imported Case
+124,37,Female,Singaporean,In Hospital,Imported Case,Germany,2020-03-06,,Imported Case
+125,65,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-06,2020-03-19,SAFRA Jurong
+126,77,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-06,,Local Transmission
+127,64,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-05,,SAFRA Jurong
+128,70,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-06,,SAFRA Jurong
+129,68,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-06,,SAFRA Jurong
+130,66,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-06,,SAFRA Jurong
+131,66,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-06,2020-03-17,SAFRA Jurong
+132,37,Female,Singaporean,Recovered,Imported Case,Unclear origin,2020-03-06,2020-03-20,Imported Case
+133,62,Female,Indonesian,Recovered,Local transmission,Unclear origin,2020-03-06,2020-03-20,SAFRA Jurong
+134,56,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-06,2020-03-19,SAFRA Jurong
+135,40,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-06,2020-03-14,Local Transmission
+136,36,Male,Italian,Recovered,Imported Case,Unclear origin,2020-03-06,2020-03-19,Imported Case
+137,60,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-06,,SAFRA Jurong
+138,26,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-06,2020-03-09,The Life Church and Missions
+139,71,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-07,,SAFRA Jurong
+140,62,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-07,,SAFRA Jurong
+141,69,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-07,,Local Transmission
+142,26,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-07,,boulder+ Gym
+143,42,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-07,2020-03-20,Local Transmission
+144,58,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-07,,Church of Singapore BT
+145,67,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-08,,SAFRA Jurong
+146,64,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-08,2020-03-14,SAFRA Jurong
+147,64,Male,Indonesian,In Hospital,Imported Case,Unclear origin,2020-03-08,,Imported Case
+148,67,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-08,2020-03-11,SAFRA Jurong
+149,62,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-08,2020-03-16,SAFRA Jurong
+150,53,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-08,2020-03-14,SAFRA Jurong
+151,51,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-08,2020-03-08,The Life Church and Missions
+152,65,Male,Indonesian,In Hospital,Imported Case,Unclear origin,2020-03-08,,Imported Case
+153,65,Female,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-08,,Imported Case
+154,52,Male,British,In Hospital,Imported Case,Unclear origin,2020-03-09,,Imported Case
+155,47,Female,Malaysian,In Hospital,Local transmission,Unclear origin,2020-03-09,,SAFRA Jurong
+156,50,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-09,,SAFRA Jurong
+157,54,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-09,,SAFRA Jurong
+158,53,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-09,,SAFRA Jurong
+159,59,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-09,,SAFRA Jurong
+160,5,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-09,2020-03-14,SAFRA Jurong
+161,73,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-09,,SAFRA Jurong
+162,28,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-09,,boulder+ Gym
+163,27,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-09,,boulder+ Gym
+164,57,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-10,,SAFRA Jurong
+165,30,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-10,,Imported Case
+166,55,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-10,,SAFRA Jurong
+167,35,Female,Filipino,In Hospital,Imported Case,Unclear origin,2020-03-10,,Imported Case
+168,47,Male,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-10,2020-03-20,Local Transmission
+169,40,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-10,,Imported Case
+170,56,Female,Indonesian,In Hospital,Imported Case,Unclear origin,2020-03-10,,Imported Case
+171,27,Male,Singaporean,Recovered,Imported Case,Unclear origin,2020-03-11,2020-03-17,Imported Case
+172,42,Female,Filipino,In Hospital,Local transmission,Unclear origin,2020-03-11,,Local Transmission
+173,31,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-11,,Imported Case
+174,67,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-11,,SAFRA Jurong
+175,44,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-11,,Imported Case
+176,37,Female,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-11,,Imported Case
+177,26,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-11,,Imported Case
+178,37,Male,Filipino,In Hospital,Imported Case,Unclear origin,2020-03-11,,Imported Case
+179,66,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-11,2020-03-20,SAFRA Jurong
+180,71,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-12,,Imported Case
+181,83,Male,Indonesian,In Hospital,Imported Case,Unclear origin,2020-03-12,,Imported Case
+182,76,Female,Indonesian,In Hospital,Imported Case,Unclear origin,2020-03-12,,Imported Case
+183,29,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-12,,Masjid Al-Muttaqin
+184,35,Male,Filipino,In Hospital,Local transmission,Unclear origin,2020-03-12,,Local Transmission
+185,34,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-12,,SAFRA Jurong
+186,64,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-12,,SAFRA Jurong
+187,48,Male,Singaporean,In Hospital,Imported Case,Malaysia,2020-03-12,,Religious Gathering at MY
+188,53,Male,Singaporean,In Hospital,Imported Case,Thailand,2020-03-12,,Imported Case
+189,36,Male,Indian,Recovered,Imported Case,India,2020-03-12,2020-03-16,Imported Case
+190,53,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-13,,Local Transmission
+191,24,Female,Malaysian,In Hospital,Imported Case,Unclear origin,2020-03-13,,Imported Case
+192,32,Male,American,In Hospital,Imported Case,United states,2020-03-13,,Imported Case
+193,26,Male,Malaysian,In Hospital,Imported Case,Unclear origin,2020-03-13,,Imported Case
+194,24,Female,Chinese,In Hospital,Imported Case,Unclear origin,2020-03-13,,Imported Case
+195,47,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-13,,Imported Case
+196,73,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-13,2020-03-17,SAFRA Jurong
+197,30,Male,Singaporean,In Hospital,Imported Case,Malaysia,2020-03-13,,Religious Gathering at MY
+198,61,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-13,,Local Transmission
+199,37,Male,Singaporean,In Hospital,Imported Case,Malaysia,2020-03-13,,Religious Gathering at MY
+200,62,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-13,,Local Transmission
+201,52,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-13,2020-03-18,SAFRA Jurong
+202,44,Male,Singaporean,In Hospital,Imported Case,Malaysia,2020-03-13,,Religious Gathering at MY
+203,36,Female,Singaporean,In Hospital,Imported Case,Indonesia,2020-03-13,,Imported Case
+204,32,Male,American,In Hospital,Imported Case,Japan,2020-03-13,,Imported Case
+205,30,Female,Filipino,In Hospital,Imported Case,Philippines,2020-03-14,,Imported Case
+206,33,Female,New zealander,In Hospital,Imported Case,United states,2020-03-14,,Imported Case
+207,40,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-14,,Imported Case
+208,26,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-14,,Church of Singapore BT
+209,32,Female,Singaporean,In Hospital,Imported Case,United states,2020-03-14,,Imported Case
+210,56,Male,German,In Hospital,Imported Case,Unclear origin,2020-03-14,,Imported Case
+211,35,Female,Filipino,In Hospital,Local transmission,Unclear origin,2020-03-14,,Local Transmission
+212,64,Male,Indonesian,Deceased,Imported Case,Indonesia,2020-03-14,,Imported Case
+213,48,Male,Singaporean,In Hospital,Imported Case,Indonesia,2020-03-14,,Imported Case
+214,29,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-14,,Church of Singapore BT
+215,65,Male,Singaporean,In Hospital,Imported Case,Thailand,2020-03-14,,Imported Case
+216,30,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-14,,Imported Case
+217,22,Male,Spanish,In Hospital,Imported Case,Spain,2020-03-14,,Imported Case
+218,55,Female,Singaporean,Recovered,Local transmission,Unclear origin,2020-03-14,2020-03-20,SAFRA Jurong
+219,30,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-15,,Local Transmission
+220,53,Male,Singaporean,In Hospital,Imported Case,France,2020-03-15,,Imported Case
+221,28,Female,Filipino,In Hospital,Local transmission,Unclear origin,2020-03-15,,Local Transmission
+222,41,Male,French,In Hospital,Imported Case,Unclear origin,2020-03-15,,Imported Case
+223,60,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-15,,Imported Case
+224,50,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-15,,SAFRA Jurong
+225,63,Male,Singaporean,In Hospital,Imported Case,Indonesia,2020-03-15,,Imported Case
+226,49,Male,Dutch,In Hospital,Imported Case,Netherlands,2020-03-15,,Imported Case
+227,53,Male,Singaporean,In Hospital,Imported Case,France,2020-03-15,,Imported Case
+228,67,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-15,,Local Transmission
+229,26,Female,Singaporean,In Hospital,Imported Case,Spain,2020-03-15,,Imported Case
+230,38,Female,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-15,,Imported Case
+231,78,Male,Australian,In Hospital,Imported Case,United states,2020-03-14,,Imported Case
+232,65,Female,Australian,In Hospital,Imported Case,United states,2020-03-15,,Imported Case
+233,61,Male,British,In Hospital,Imported Case,United kingdom,2020-03-16,,Imported Case
+234,86,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-16,,Local Transmission
+235,31,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-16,,Church of Singapore BT
+236,30,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-16,,Local Transmission
+237,36,Female,Indonesian,In Hospital,Local transmission,Unclear origin,2020-03-16,,Local Transmission
+238,83,Female,Belgian,In Hospital,Imported Case,Belgium,2020-03-16,,Imported Case
+239,28,Male,Singaporean,In Hospital,Imported Case,France,2020-03-16,,Imported Case
+240,27,Male,Singaporean,In Hospital,Imported Case,Spain,2020-03-16,,Imported Case
+241,28,Male,British,In Hospital,Imported Case,France,2020-03-16,,Imported Case
+242,64,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-16,,Local Transmission
+243,36,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-16,,Imported Case
+244,53,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-16,,Imported Case
+245,76,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-16,,Local Transmission
+246,39,Male,Canadian,In Hospital,Imported Case,Japan,2020-03-16,,Imported Case
+247,41,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-16,,Imported Case
+248,23,Female,Malaysian,In Hospital,Local transmission,Unclear origin,2020-03-17,,Local Transmission
+249,42,Male,Singaporean,In Hospital,Imported Case,United states,2020-03-17,,Imported Case
+250,28,Male,British,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+251,59,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-17,,Local Transmission
+252,66,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-17,,Masjid Al-Muttaqin
+253,24,Male,Singaporean,In Hospital,Imported Case,Spain,2020-03-17,,Imported Case
+254,43,Female,Singaporean,In Hospital,Imported Case,France,2020-03-17,,Imported Case
+255,44,Male,Swedish,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+256,32,Female,Filipino,In Hospital,Local transmission,Unclear origin,2020-03-17,,Local Transmission
+257,19,Male,French,In Hospital,Imported Case,United kingdom,2020-03-17,,Imported Case
+258,47,Male,Indian,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+259,30,Female,Singaporean,In Hospital,Imported Case,Philippines,2020-03-17,,Imported Case
+260,48,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-17,,Local Transmission
+261,30,Male,American,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+262,20,Female,Indonesian,In Hospital,Imported Case,United kingdom,2020-03-17,,Imported Case
+263,52,Female,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+264,41,Female,Indonesian,In Hospital,Imported Case,Indonesia,2020-03-17,,Imported Case
+265,25,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-17,,Imported Case
+266,63,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+267,72,Female,Singaporean,In Hospital,Imported Case,Indonesia,2020-03-17,,Imported Case
+268,64,Male,British,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+269,19,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-17,,Imported Case
+270,62,Female,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+271,29,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-17,,Imported Case
+272,65,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+273,69,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-17,,Local Transmission
+274,50,Male,American,In Hospital,Imported Case,United states,2020-03-17,,Imported Case
+275,27,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-17,,Local Transmission
+276,21,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-17,,Imported Case
+277,55,Male,Singaporean,In Hospital,Imported Case,United states,2020-03-17,,Imported Case
+278,48,Female,American,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+279,71,Male,Singaporean,In Hospital,Imported Case,Philippines,2020-03-17,,Imported Case
+280,21,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-17,,Imported Case
+281,46,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-17,,Imported Case
+282,-,Male,Unidentified nationality,In Hospital,Imported Case,France,2020-03-17,,Imported Case
+283,62,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-17,,Church of Singapore BT
+284,32,Male,Singaporean,In Hospital,Imported Case,United states,2020-03-17,,Imported Case
+285,42,Female,Thai,In Hospital,Imported Case,Thailand,2020-03-17,,Imported Case
+286,54,Male,British,In Hospital,Imported Case,United kingdom,2020-03-17,,Imported Case
+287,26,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-17,,Local Transmission
+288,71,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+289,62,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+290,69,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+291,52,Male,Indian,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+292,64,Female,Singaporean,In Hospital,Imported Case,Turkey,2020-03-18,,Imported Case
+293,30,Male,British,In Hospital,Imported Case,United kingdom,2020-03-18,,Imported Case
+294,58,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+295,55,Male,Singaporean,In Hospital,Imported Case,United states,2020-03-18,,Imported Case
+296,25,Female,Malaysian,In Hospital,Imported Case,United kingdom,2020-03-18,,Imported Case
+297,31,Male,Indonesian,In Hospital,Imported Case,Indonesia,2020-03-18,,Imported Case
+298,44,Male,Singaporean,In Hospital,Imported Case,India,2020-03-18,,Imported Case
+299,29,Male,Singaporean,In Hospital,Imported Case,Philippines,2020-03-18,,Imported Case
+300,28,Male,German,In Hospital,Imported Case,Unclear origin,2020-03-18,,Imported Case
+301,63,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-18,,Imported Case
+302,49,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+303,27,Male,Malaysian,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+304,27,Female,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-18,,Imported Case
+305,24,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-18,,boulder+ Gym
+306,56,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-18,,Imported Case
+307,22,Female,Singaporean,In Hospital,Imported Case,Philippines,2020-03-18,,Imported Case
+308,59,Male,Singaporean,In Hospital,Imported Case,United states,2020-03-18,,Imported Case
+309,60,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-18,,Imported Case
+310,58,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-18,,Masjid Al-Muttaqin
+311,80,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+312,30,Male,French,In Hospital,Imported Case,Unclear origin,2020-03-18,,Imported Case
+313,39,Male,British,In Hospital,Imported Case,United kingdom,2020-03-18,,Imported Case
+314,58,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+315,57,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-18,,Imported Case
+316,25,Male,Malaysian,In Hospital,Imported Case,Malaysia,2020-03-18,,Imported Case
+317,29,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-18,,Imported Case
+318,58,Female,Chinese,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+319,67,Female,Filipino,In Hospital,Imported Case,Philippines,2020-03-18,,Imported Case
+320,34,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-18,,Imported Case
+321,65,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-18,,Local Transmission
+322,46,Female,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-18,,Imported Case
+323,24,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-18,,Imported Case
+324,45,Male,Brazilian,In Hospital,Imported Case,United kingdom,2020-03-18,,Imported Case
+325,38,Male,Filipino,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+326,33,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-19,,Imported Case
+327,38,Female,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-19,,Imported Case
+328,63,Female,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-19,,Imported Case
+329,64,Male,Singaporean,In Hospital,Imported Case,Turkey,2020-03-19,,Imported Case
+330,67,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-19,,Local Transmission
+331,49,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+332,36,Female,American,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+333,48,Male,Colombian,In Hospital,Imported Case,United states,2020-03-19,,Imported Case
+334,32,Female,Singaporean,In Hospital,Imported Case,United states,2020-03-19,,Imported Case
+335,57,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-19,,Local Transmission
+336,60,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-19,,Local Transmission
+337,31,Male,Swiss,In Hospital,Imported Case,Unclear origin,2020-03-19,,Imported Case
+338,57,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-19,,Local Transmission
+339,66,Male,Singaporean,In Hospital,Imported Case,Philippines,2020-03-19,,Imported Case
+340,27,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-19,,Imported Case
+341,31,Male,German,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+342,31,Male,Singaporean,In Hospital,Imported Case,Thailand,2020-03-19,,Imported Case
+343,20,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+344,21,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+345,30,Male,German,In Hospital,Local transmission,Unclear origin,2020-03-19,,boulder+ Gym
+346,59,Male,Singaporean,In Hospital,Imported Case,India,2020-03-19,,Imported Case
+347,27,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+348,51,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-19,,Local Transmission
+349,21,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+350,61,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-19,,Local Transmission
+351,51,Male,Singaporean,In Hospital,Imported Case,Indonesia,2020-03-19,,Imported Case
+352,43,Male,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-19,,Imported Case
+353,23,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-19,,Local Transmission
+354,59,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+355,38,Male,Australian,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+356,27,Male,Australian,In Hospital,Imported Case,India,2020-03-19,,Imported Case
+357,41,Male,German,In Hospital,Imported Case,Germany,2020-03-19,,Imported Case
+358,39,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-19,,Local Transmission
+359,45,Female,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-19,,Local Transmission
+360,26,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+361,32,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-19,,Local Transmission
+362,45,Female,German,In Hospital,Imported Case,Germany,2020-03-19,,Imported Case
+363,49,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-19,,Imported Case
+364,52,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-20,,Local Transmission
+365,33,Male,Dutch,In Hospital,Imported Case,Netherlands,2020-03-20,,Imported Case
+366,26,Female,Singaporean,In Hospital,Imported Case,Unclear origin,2020-03-20,,Imported Case
+367,25,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-20,,Local Transmission
+368,19,Female,Indonesian,In Hospital,Local transmission,Unclear origin,2020-03-20,,Local Transmission
+369,34,Male,Singaporean,In Hospital,Imported Case,Thailand,2020-03-20,,Imported Case
+370,73,Male,Malaysian,In Hospital,Imported Case,Indonesia,2020-03-20,,Imported Case
+371,22,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-20,,Imported Case
+372,22,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-20,,Imported Case
+373,51,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-20,,Imported Case
+374,23,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-20,,Imported Case
+375,25,Female,Singaporean,In Hospital,Imported Case,United states,2020-03-20,,Imported Case
+376,21,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-20,,Imported Case
+377,59,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-20,,Imported Case
+378,38,Male,British,In Hospital,Imported Case,United kingdom,2020-03-20,,Imported Case
+379,62,Male,Swedish,In Hospital,Imported Case,Indonesia,2020-03-20,,Imported Case
+380,34,Male,Singaporean,In Hospital,Imported Case,Switzerland,2020-03-20,,Imported Case
+381,27,Female,Singaporean,In Hospital,Imported Case,Spain,2020-03-20,,Imported Case
+382,55,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-20,,Imported Case
+383,42,Female,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-20,,Imported Case
+384,65,Male,Singaporean,In Hospital,Local transmission,Unclear origin,2020-03-20,,Local Transmission
+385,22,Male,Singaporean,In Hospital,Imported Case,United kingdom,2020-03-20,,Imported Case
