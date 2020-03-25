@@ -630,4 +630,3 @@ CASE NO,CONFIRMED ON,AGE,GENDER,NATIONALITY,EXPOSURE,TRAVEL HISTORY,CLUSTER,STAT
 629.0,2020-03-25,46,Male ,Singapore Citizen ,Imported ,Pakistan ,Imported ,In hospital,,557,
 630.0,2020-03-25,43,Female ,Singapore Citizen ,Local linked , ,Local linked ,In hospital,,532,
 631.0,2020-03-25,3,Female ,India ,Local linked , ,Local linked ,In hospital,,453,
-,,,,,,, ,,,,
